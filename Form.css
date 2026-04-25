@@ -1,0 +1,47 @@
+html {
+
+    scroll-behavior: smooth;
+
+}
+
+body {
+    background: #0b1d1a;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 250px;
+
+
+}
+
+h1:hover {
+
+    color: #22c55e;
+
+}
+
+
+p:hover {
+
+    color: #22c55e;
+
+}
+
+.t1 {
+
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+
+}
+
+.t2 {
+
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+
+}
